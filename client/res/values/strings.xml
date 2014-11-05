@@ -5,5 +5,12 @@
     <string name="hello">Hello client!</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="splash">Splash!</string>
+
+    <string name="error_response_title">Error Connecting to Server</string>
+    <string name="error_response_message">An error was encountered connecting to the Dewey, Cheetham &amp; Howe server.  Please try again later.</string>
+
+    <string name="outdated_title">This app is not up to date</string>
+    <string name="outdated_message">This app must be updated before it can be used.  Press OK to update the app on Google Play, press Cancel to exit.</string>
 
 </resources>
